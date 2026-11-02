@@ -1,7 +1,7 @@
 # LVL UP — inventer mon métier, construire mon autonomie
 
 Document de référence unique — 2 novembre 2026.
-Format : texte structuré en Markdown, extension .mc conservée volontairement.
+Format : Markdown, document unique organisé en chapitres.
 Statut : ambitions exprimées et propositions de parcours ; aucune mission d'enquête ni date d'examen n'est encore arrêtée.
 
 ## 01 — Mon point de départ
