@@ -1,7 +1,5 @@
-# Burp — carnet de mission
+# Burp — LVL UP
 
-Ce dépôt conserve mon plan, mes observations et mes livrables pour reprendre la cybersécurité avec une direction concrète.
+Le projet, les domaines à explorer et le système d'apprentissage sont rassemblés dans un seul document : [lvl_up.mc](lvl_up.mc).
 
-**Point de départ :** [PLAN.md](PLAN.md). Le nom du dépôt ne m'engage pas à choisir définitivement la sécurité web.
-
-Pas de série de tutoriels imposée ni de certification réservée à ce stade. Le premier cycle doit produire quelque chose d'utile et permettre de choisir la suite sur des faits.
+Le nom du dépôt ne limite pas le parcours à la sécurité web. Le fichier est du texte structuré en Markdown ; son extension `.mc` est conservée comme demandée.
